@@ -1,22 +1,30 @@
-Hello, I’m [@SwordOfTheNebulae](https://github.com/SwordOfTheNebulae)
+Hello, I’m [@SwordOfTheNebulae](https://github.com/SwordOfTheNebulae)\
+\
+My [website](https://42.dicemad.com) (unfinished)
+
+---
+**Programming languages I know**\
+<sup>(more or less in order of compentency)</sup>
 
 I'm competent in:
 - JavaScript
   - TypeScript
+  - Server side and client side
 - Python
+- Zig
 - C# (Unity Engine)
+- C
+- Rust
 
 I'm alright at:
-- Rust
-- C
+- Java
 - Lua
+- C++
+- SQL
+- Prolog
 
 I know the basic syntax of:
-- C++
-- Java
 - C# (.NET)
-
-<!---
-SwordOfTheNebulae/SwordOfTheNebulae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Ruby
+- React
+- Haskell
