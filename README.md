@@ -34,3 +34,9 @@ I know the basic syntax of:
 - Ruby
 - React
 - Haskell
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="/assets/separator_white.png">
+ <source media="(prefers-color-scheme: light)" srcset="/assets/separator_black.png">
+ <img alt="" src="assets/seperator_white.png" width="748">
+</picture>
